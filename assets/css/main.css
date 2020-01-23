@@ -2743,7 +2743,7 @@ input, select, textarea {
 				flex-grow: 1;
 				-ms-flex: 1;
 				padding: 3.75em 3em 3.3em 3em;
-/* *** Section header*/				background-color: #7f5a83;
+/* *** Section header*/				background-color: #395AA8;
 			}
 
 				.post > header .title h2 {
@@ -3168,7 +3168,7 @@ input, select, textarea {
 			}
 			
 /* *** Selected menu item*/	#header .links ul li .selected {
-				background-color: #7f5a83;
+				background-color: #395AA8;
 				padding: 2em 1em 2em 1em;
 			}
 
